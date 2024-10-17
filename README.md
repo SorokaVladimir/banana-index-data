@@ -16,3 +16,22 @@ Mathematically, this means that for a given metric, the banana score is the rati
 The Economist and Solstad, S. (corresponding author), 2023. The Economist's Banana index. First published in the article "A different way to measure the climate impact of food", The Economist, April 11, 2023.
 
 (We also encourage you to cite our data sources.)
+
+## DAB5 by Reuven Lerner Challenge#1 Tasks:
+1 Download the data into a data frame. Set the index to be the entity column. Remove the year, Banana values, type, and Chart? columns.
+
+2 Three  columns contain pre-computed banana scores for kg, calories, and protein. For each of these columns, show the 10 highest-scoring food products.
+
+
+3 Which foods, if any, have the highest banana score on all three lists?
+
+4 Create a new column, named Bananas index (land use 1000 kcal), calculating that food item's use of land for every 1,000 kcal. Which 10 foods have the highest score? Do any appear on the three previous lists?
+
+5 What kind of cheese has the highest banana score per 1,000 kcal?
+
+6 Show the correlations among the four computed banana scores. Which values seem to correlate most highly?
+
+7 Highlight any correlations in the range 0.8 to 0.99 using a different color
+
+My solutions are in 
+# Week 16 (October 10) Practice Week1 Challenge1 Banana Index
